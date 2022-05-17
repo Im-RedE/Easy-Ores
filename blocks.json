@@ -79,9 +79,6 @@
          "west" : "barrel_side"
       }
    },
-   "barrier" : {
-      "textures" : "barrier"
-   },
    "basalt" : {
       "sound" : "basalt",
       "textures" : {
