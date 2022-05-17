@@ -3,14 +3,14 @@
 	"header": {
 		"name": "Easy Ores [X-Ray]",
 		"description": "[X-Ray]\nBy Mr.Otter",
-		"uuid": "076dd436-958b-4650-9404-41ff32007dc1",
+		"uuid": "066dd436-958b-4650-9404-41ff32007dc1",
 		"version": [1, 0, 0],
 		"min_engine_version": [1, 18, 30]
 	},
 	"modules": [
 		{
 			"type": "resources",
-			"uuid": "04e2c7d5-bdab-4f74-a156-c93460550500",
+			"uuid": "04e3c7d5-bdab-4f74-a156-c93460550500",
 			"version": [1, 0, 0]
 		}
 	]
